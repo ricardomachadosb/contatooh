@@ -1,0 +1,22 @@
+{
+  "name": "contatooh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardomachadosb/contatooh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardomachadosb/contatooh/issues"
+  },
+  "homepage": "https://github.com/ricardomachadosb/contatooh",
+  "dependencies": {
+    "express": "^4.8.8"
+  }
+}
